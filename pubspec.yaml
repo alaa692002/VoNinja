@@ -10,6 +10,7 @@ dependencies:
   easy_splash_screen: ^1.0.4
   flutter:
     sdk: flutter
+  video_player: ^2.8.1
   flutter_localizations:
     sdk: flutter
   flutter_bloc: ^8.1.6
